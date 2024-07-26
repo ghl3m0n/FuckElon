@@ -29,7 +29,7 @@ To maintain the classic look and feel of Twitter, some of the new design element
 
 ## Installation
 1. **Download the IPA**: [Download the latest version of FuckElon](https://github.com/ghl3m0n/FuckElon/releases).
-2. **Install the IPA**: Use tools like [AltStore](https://altstore.io/) or [Sideloadly](https://sideloadly.io/) to sideload the IPA to your device. I recommand using [SideStore](https://sidestore.io/).
+2. **Install the IPA**: Use tools like [AltStore](https://altstore.io/) or [Sideloadly](https://sideloadly.io/) to sideload the IPA to your device. I recommend using [SideStore](https://sidestore.io/).
 
 ## Screenshots
 <p align="center">
