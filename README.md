@@ -21,6 +21,12 @@ I use this as my everyday Twitter client, so I will update it often *(with BHTwi
 - All X texts replaced with the old Twitter texts (Post --> Tweet, Repost --> Retweet, etc.).
 - Includes the [BHTwitter](https://github.com/BandarHL/BHTwitter) tweak (injected by the [AppleFavour](https://applefavour.com/) Team).
 
+## How does it work?
+To maintain the classic look and feel of Twitter, some of the new design elements introduced by X have been replaced with those from earlier versions of Twitter. Specifically:
+- **Icons**: The new icons from X have been substituted with the original Twitter bird icons.
+- **Text Labels**: Text labels and button names that were changed in X have been reverted to their previous Twitter terminology (e.g., "Post" changed back to "Tweet", "Repost" reverted to "Retweet").
+- **Interface Elements**: Certain interface elements that reflect the new X branding have been replaced with elements from the old Twitter design to preserve a nostalgic user experience.
+
 ## Installation
 1. **Download the IPA**: [Download the latest version of FuckElon](https://github.com/ghl3m0n/FuckElon/releases).
 2. **Install the IPA**: Use tools like [AltStore](https://altstore.io/) or [Sideloadly](https://sideloadly.io/) to sideload the IPA to your device. I recommand using [SideStore](https://sidestore.io/).
