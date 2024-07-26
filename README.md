@@ -1,6 +1,9 @@
 # FuckElon
 A custom IPA that removes the X branding while keeping the new like, retweet etc. icons.
 
+### Mention
+I use it as my everyday Twitter client so I will update *(BHTwitter new releases and X last stable version decrypted from the App Store)* it often and maybe add new tweaks while keeping our favorite bird.
+
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/supercitron)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ghl3m0n/FuckElon)
 
