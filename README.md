@@ -1,4 +1,11 @@
-# FuckElon
+   ___                 _      __ _             
+  / __\_/\__ ___ _   _| | __ /__\ | ___  _ __  
+ / _\ \    // __| | | | |/ //_\ | |/ _ \| '_ \ 
+/ /   /_  _\ (__| |_| |   <//__ | | (_) | | | |
+\/      \/  \___|\__,_|_|\_\__/ |_|\___/|_| |_|
+                                               
+
+
 A custom IPA that removes the X branding while keeping the new like, retweet, etc. icons.
 
 ### Mention
