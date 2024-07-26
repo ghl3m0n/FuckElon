@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <path id="bounds" opacity="0" d="M0 0h24v24H0z"/>
+    <circle fill="#50A5E5" cx="12" cy="12" r="10"/>
+    <circle fill="#BBDDF5" cx="12" cy="12" r="8"/>
+    <path fill="#1C6399" d="M15 11h-2V7c0-.553-.447-1-1-1s-1 .447-1 1v5c0 .553.447 1 1 1h3c.553 0 1-.447 1-1s-.447-1-1-1z"/>
+</svg>

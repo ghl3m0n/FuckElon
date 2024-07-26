@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="60" height="72" viewBox="0 0 60 72" enable-background="new 0 0 60 72" xml:space="preserve">
+<g id="bounds"><rect opacity="0" width="60" height="72"/></g>
+<g id="icon">
+<path d="M38,48H22c-1.104,0-2-0.896-2-2s0.896-2,2-2h16c1.104,0,2,0.896,2,2S39.104,48,38,48z"/>
+<path d="M30,63C15.112,63,3,50.888,3,36S15.112,9,30,9s27,12.112,27,27S44.887,63,30,63z M30,13C17.317,13,7,23.317,7,36s10.318,23,23,23s23-10.317,23-23S42.682,13,30,13z"/>
+<ellipse cx="37.999" cy="30.5" rx="3.15" ry="4.5"/>
+<ellipse cx="21.999" cy="30.5" rx="3.15" ry="4.5"/>
+</g>
+</svg>
