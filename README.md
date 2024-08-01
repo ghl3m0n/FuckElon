@@ -1,6 +1,7 @@
 
 
 
+
        ___                 _      __ _             
       / __\_/\__ ___ _   _| | __ /__\ | ___  _ __  
      / _\ \    // __| | | | |/ //_\ | |/ _ \| '_ \ 
@@ -51,7 +52,7 @@ Thanks to [driftywinds](https://github.com/driftywinds)!
 
 ## Todo
  - Better screenshots (with Sketch or smth)
- - Remove Grok AI
+ - ~~Remove Grok AI~~
  - Remove blue check
  - Old animation splash screen
  - Blurry navbar
