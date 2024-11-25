@@ -1,7 +1,4 @@
 
-
-
-
        ___                 _      __ _             
       / __\_/\__ ___ _   _| | __ /__\ | ___  _ __  
      / _\ \    // __| | | | |/ //_\ | |/ _ \| '_ \ 
@@ -64,7 +61,7 @@ Thanks to [driftywinds](https://github.com/driftywinds)!
 If you have any suggestions or improvements, feel free to submit a pull request or open an issue.
 
 ## Contact
-For any questions or support, you can reach me on Telegram: [superlemon](https://t.me/superlemon).
+For any questions or support, you can reach me on Twitter: [supercitron](https://x.com/supercitron).
 
 ## Disclaimer
 This project is not affiliated with or endorsed by Twitter or Elon Musk. This is a personal project intended for fun and customization. No offense, Elon ;-)
