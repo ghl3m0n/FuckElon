@@ -18,8 +18,6 @@
 -   🔄 X texts replaced with old **Twitter texts** ("Post" ➡️ "Tweet", "Repost" ➡️ "Retweet", etc.).
 -   ⚡ Includes the awesome [BHTwitter](https://github.com/BandarHL/BHTwitter) tweak.
 
-
-
 ## 📥 Installation
 
 ### ⚙️ Install via AltStore (or forks like SideStore)
@@ -43,7 +41,6 @@ Special thanks to [driftywinds](https://github.com/driftywinds)!
     <img src="https://raw.githubusercontent.com/ghl3m0n/FuckElon/main/images/3.PNG" width="300">
     <img src="https://raw.githubusercontent.com/ghl3m0n/FuckElon/main/images/4.PNG" width="300">
 </p>
-----------
 
 ## 🤝 Contributing
 
@@ -58,9 +55,7 @@ Special thanks to [driftywinds](https://github.com/driftywinds)!
 Questions or support? Reach out on Twitter: [supercitron](https://x.com/supercitron).  
 🚫 **Note**: Don't DM `superlemon` on Telegram; I lost that account. 😅
 
-----------
-
 ## ⚠️ Disclaimer
 
-This project is **not affiliated with** Twitter (X) or Elon Musk.  
+This project is **not affiliated** with Twitter (X) or Elon Musk.  
 🛠️ It's a fun, personal project to keep the bird alive! No offense, Elon. 😉
