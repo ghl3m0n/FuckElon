@@ -12,13 +12,15 @@ A custom IPA that removes the X branding while keeping the new like, retweet, et
 ### Mention
 I use this as my everyday Twitter client, so I will update it often *(with BHTwitter new releases and the latest stable version of X decrypted from the App Store)* and maybe add new tweaks while keeping our favorite bird.
 
+X decrypted `.ipa` downloaded from IPAUniverse
+
 ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/supercitron)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ghl3m0n/FuckElon)
 
 ## Features
 - All X icons replaced with the Twitter bird.
 - All X texts replaced with the old Twitter texts (Post --> Tweet, Repost --> Retweet, etc.).
-- Includes the [BHTwitter](https://github.com/BandarHL/BHTwitter) tweak (injected by the [AppleFavour](https://applefavour.com/) Team).
+- Includes the [BHTwitter](https://github.com/BandarHL/BHTwitter) tweak.
 
 ## How does it work?
 To maintain the classic look and feel of Twitter, some of the new design elements introduced by X have been replaced with those from earlier versions of Twitter. Specifically:
@@ -46,7 +48,7 @@ Thanks to [driftywinds](https://github.com/driftywinds)!
     <img src="https://raw.githubusercontent.com/ghl3m0n/FuckElon/main/images/4.PNG" width="300">
 </p>
 
-
+<!---
 ## Todo
  - Better screenshots (with Sketch or smth)
  - ~~Remove Grok AI~~
@@ -56,12 +58,13 @@ Thanks to [driftywinds](https://github.com/driftywinds)!
  - Dont hide top bar when scrolling
  - Remove "new posts" button
  - Original blue bird color
+ -->
  
 ## Contributing
 If you have any suggestions or improvements, feel free to submit a pull request or open an issue.
 
 ## Contact
-For any questions or support, you can reach me on Twitter: [supercitron](https://x.com/supercitron).
+For any questions or support, you can reach me on Twitter: [supercitron](https://x.com/supercitron). Don't try to reach my Telegram (I lost my account).
 
 ## Disclaimer
-This project is not affiliated with or endorsed by Twitter or Elon Musk. This is a personal project intended for fun and customization. No offense, Elon ;-)
+This project is not affiliated with or endorsed by Twitter (X) or Elon Musk. This is a personal project intended for fun and customization. No offense, Elon ;-)
